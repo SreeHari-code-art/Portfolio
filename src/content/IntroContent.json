@@ -1,0 +1,13 @@
+{
+  "title": "Sree Hari",
+  "text": "MERN Stack Developer creating modern, responsive, and scalable web applications with React, Node.js, Express, and MongoDB.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Hire Me",
+      "color": "#fff"
+    }
+  ]
+}

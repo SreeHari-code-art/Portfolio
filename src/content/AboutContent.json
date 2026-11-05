@@ -1,0 +1,16 @@
+{
+  "title": "About Me",
+  "text": "I am Sree Hari, a passionate MERN Stack Developer focused on building scalable, responsive, and high-performing web applications that solve real problems and delight users.",
+  "section": [
+    {
+      "title": "Frontend Skills",
+      "content": "React.js, JavaScript, TypeScript, HTML5, CSS3, responsive UI design, and modern component-based architecture.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Backend Skills",
+      "content": "Node.js, Express.js, REST APIs, MongoDB, authentication flows, and efficient database design.",
+      "icon": "notes.svg"
+    }
+  ]
+}
